@@ -47,7 +47,7 @@ For code interviews, as time is short, some people recommend using python, but i
 How to run your code?
 * In terminal use, for c++: 
 ``` sh
-    g++ -Wall -std=c++17 "main.cpp" -o "main" 
+    g++ -Wall -std=c++17 "main.cpp" -o "main"
 ```
 For python use:
 ```sh
@@ -55,6 +55,13 @@ For python use:
 ```
 
 
+## Contact
+
+My name: Lucas Cordeiro Vieira
+Linkedin: [Linkedin] (https://www.linkedin.com/in/lucas-cordeiro-vieira-a22648161/)
+Projects Link: [https://github.com/lucasEngdComp](https://github.com/lucasEngdComp)
+Youtube channel: [Youtube] (https://www.youtube.com/channel/UCoi9C7_8sDmqA9cTzvUVhaw)
+Email: [Email](lucas.cordeiro@academico.ifpb.edu.br)
 
 
 
