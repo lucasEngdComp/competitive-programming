@@ -1,5 +1,6 @@
 <h3 align="center">I like to solve problems with different concepts :computer:</h3>
 <!-- ROADMAP -->
+
 ## Concept Roadmap
 
 - [x] Arrays e Matrices
@@ -20,9 +21,9 @@
 I like to study programming fundamentals and try to apply them to problems, for that I use some sites, like leetcode, open kattis and others. The purpose of this roadmap of studies and problem solving is to interview codes from large companies and participate in programming marathons.
 
 Sites:
-* [![LeetCode][product-screenshot]](https://leetcode.com)
-* [![Open Kattis][product-screenshot]](https://open.kattis.com/)
-* [![Online jugde UVA][product-screenshot]](https://onlinejudge.org/)
+* [[LeetCode]](https://leetcode.com)
+* [[Open Kattis](https://open.kattis.com/)
+* [![Online jugde UVA]](https://onlinejudge.org/)
 
 
 ## Tools
@@ -58,8 +59,8 @@ For python use:
 ## Contact
 
 * My name: Lucas Cordeiro Vieira
-* Linkedin: [Linkedin] (https://www.linkedin.com/in/lucas-cordeiro-vieira-a22648161/) :linkedin:
-* Projects Link: [https://github.com/lucasEngdComp](https://github.com/lucasEngdComp) :github:
-* Youtube channel: [Youtube] (https://www.youtube.com/channel/UCoi9C7_8sDmqA9cTzvUVhaw):youtube:
-* Email: lucas.cordeiro@academico.ifpb.edu.br :email:
+* Linkedin: [Linkedin] (https://www.linkedin.com/in/lucas-cordeiro-vieira-a22648161/)
+* Projects Link: [https://github.com/lucasEngdComp](https://github.com/lucasEngdComp)
+* Youtube channel: [Youtube] (https://www.youtube.com/channel/UCoi9C7_8sDmqA9cTzvUVhaw)
+* Email: lucas.cordeiro@academico.ifpb.edu.br
 
