@@ -1,4 +1,4 @@
-<h3 align="center">I like to solve problems with different concepts :computer:</h3>
+<h1 align="center">I like to solve problems with different concepts :computer:</h3>
 <!-- ROADMAP -->
 
 ## Concept Roadmap
@@ -21,9 +21,9 @@
 I like to study programming fundamentals and try to apply them to problems, for that I use some sites, like leetcode, open kattis and others. The purpose of this roadmap of studies and problem solving is to interview codes from large companies and participate in programming marathons.
 
 Sites:
-* [[LeetCode]](https://leetcode.com)
-* [[Open Kattis](https://open.kattis.com/)
-* [![Online jugde UVA]](https://onlinejudge.org/)
+* [LeetCode]](https://leetcode.com)
+* [Open Kattis](https://open.kattis.com/)
+* [Online jugde UVA](https://onlinejudge.org/)
 
 
 ## Tools
@@ -54,7 +54,6 @@ For python use:
 ```sh
     python3 "file.py"
 ```
-
 
 ## Contact
 
