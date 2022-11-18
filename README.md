@@ -1,15 +1,20 @@
-<h3 align="center">Gosto de resolver problemas com diferentes conceitos</h3>
+<h3 align="center">I like to solve problems with different concepts</h3>
 <!-- ROADMAP -->
-## Roadmap
+## Concept Roadmap
 
 - [x] Arrays e Matrices
 - [x] Strings
-- [ ] Graphs - DFS, BFS
-- [ ] Divide and Conquer
-- [ ] Greedy Algorithms
-- [ ] Dynaminc programming
-- [ ] Ad-hoc
-- [ ] 
+- [x] Graphs - DFS, BFS
+- [x] Divide and Conquer
+- [x] Greedy Algorithms
+- [ ] Dynaminc programming // no yet :worried:
+- [x] Ad-hoc
+- [x] Sorting
+- [x] Binary Tree
+- [x] Binary search
+
+
+
 
 
 
