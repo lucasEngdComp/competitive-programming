@@ -59,7 +59,7 @@ For python use:
 
 * My name: Lucas Cordeiro Vieira
 * Linkedin: [Linkedin](https://www.linkedin.com/in/lucas-cordeiro-vieira-a22648161/)
-* Projects Link: [https://github.com/lucasEngdComp](https://github.com/lucasEngdComp)
+* Projects Link: [GitHub](https://github.com/lucasEngdComp)
 * Youtube channel: [Youtube](https://www.youtube.com/channel/UCoi9C7_8sDmqA9cTzvUVhaw)
 * Email: lucas.cordeiro@academico.ifpb.edu.br
 
