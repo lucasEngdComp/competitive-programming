@@ -21,7 +21,7 @@
 I like to study programming fundamentals and try to apply them to problems, for that I use some sites, like leetcode, open kattis and others. The purpose of this roadmap of studies and problem solving is to interview codes from large companies and participate in programming marathons.
 
 Sites:
-* [LeetCode]](https://leetcode.com)
+* [LeetCode](https://leetcode.com)
 * [Open Kattis](https://open.kattis.com/)
 * [Online jugde UVA](https://onlinejudge.org/)
 
@@ -58,8 +58,8 @@ For python use:
 ## Contact
 
 * My name: Lucas Cordeiro Vieira
-* Linkedin: [Linkedin] (https://www.linkedin.com/in/lucas-cordeiro-vieira-a22648161/)
+* Linkedin: [Linkedin](https://www.linkedin.com/in/lucas-cordeiro-vieira-a22648161/)
 * Projects Link: [https://github.com/lucasEngdComp](https://github.com/lucasEngdComp)
-* Youtube channel: [Youtube] (https://www.youtube.com/channel/UCoi9C7_8sDmqA9cTzvUVhaw)
+* Youtube channel: [Youtube](https://www.youtube.com/channel/UCoi9C7_8sDmqA9cTzvUVhaw)
 * Email: lucas.cordeiro@academico.ifpb.edu.br
 
